@@ -1,0 +1,160 @@
+ Prim  : er graph with V=1000, E=5119, 0.000130152 secs, 10238 edge scans, 4120 w comps, 0 uf ops, 3559 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 114.787514074
+Boruvka: er graph with V=1000, E=5119, 0.000155782 secs, 25595 edge scans, 37560 w comps, 53818 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 114.787514074
+Kruskal: er graph with V=1000, E=5119, 0.000217718 secs, 3147 edge scans, 79950 w comps, 6294 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 114.787514074
+SCFcach(K=2): er graph with V=1000, E=5119, 0.000219320 secs, 15793 edge scans, 26075 w comps, 0 uf ops, 1998 pq ops, 3910 component updates, 8860/10044 cache checks for best/worst, with MST weight 114.787514074
+
+ Prim  : er graph with V=1000, E=10098, 0.000170486 secs, 20196 edge scans, 9099 w comps, 0 uf ops, 4175 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 57.406383914
+SCFcach(K=2): er graph with V=1000, E=10098, 0.000241730 secs, 28844 edge scans, 53111 w comps, 0 uf ops, 1998 pq ops, 3658 component updates, 8150/23747 cache checks for best/worst, with MST weight 57.406383914
+Boruvka: er graph with V=1000, E=10098, 0.000253698 secs, 50490 edge scans, 75852 w comps, 103600 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 57.406383914
+Kruskal: er graph with V=1000, E=10098, 0.000471906 secs, 2908 edge scans, 161312 w comps, 5816 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 57.406383914
+
+ Prim  : er graph with V=1000, E=20042, 0.000244434 secs, 40084 edge scans, 19043 w comps, 0 uf ops, 4891 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 28.296174811
+SCFcach(K=2): er graph with V=1000, E=20042, 0.000313972 secs, 60876 edge scans, 111619 w comps, 0 uf ops, 1998 pq ops, 3919 component updates, 8864/52811 cache checks for best/worst, with MST weight 28.296174811
+Boruvka: er graph with V=1000, E=20042, 0.000450164 secs, 100210 edge scans, 164038 w comps, 203044 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 28.296174811
+Kruskal: er graph with V=1000, E=20042, 0.001017676 secs, 3199 edge scans, 339523 w comps, 6398 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 28.296174811
+
+SCFcach(K=2): er graph with V=1000, E=29914, 0.000355126 secs, 87354 edge scans, 163402 w comps, 0 uf ops, 1998 pq ops, 3762 component updates, 8438/78833 cache checks for best/worst, with MST weight 19.069084655
+ Prim  : er graph with V=1000, E=29914, 0.000419802 secs, 59828 edge scans, 28915 w comps, 0 uf ops, 5276 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 19.069084655
+Boruvka: er graph with V=1000, E=29914, 0.000521910 secs, 119656 edge scans, 211205 w comps, 241894 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 19.069084655
+Kruskal: er graph with V=1000, E=29914, 0.001574844 secs, 4229 edge scans, 546340 w comps, 8458 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 19.069084655
+
+SCFcach(K=2): er graph with V=1000, E=39934, 0.000350506 secs, 108887 edge scans, 211659 w comps, 0 uf ops, 1998 pq ops, 3436 component updates, 7600/103200 cache checks for best/worst, with MST weight 14.562442600
+ Prim  : er graph with V=1000, E=39934, 0.000368306 secs, 79868 edge scans, 38935 w comps, 0 uf ops, 5591 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.562442600
+Boruvka: er graph with V=1000, E=39934, 0.000760568 secs, 199670 edge scans, 307973 w comps, 401938 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.562442600
+Kruskal: er graph with V=1000, E=39934, 0.002147498 secs, 3926 edge scans, 720976 w comps, 7852 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.562442600
+
+ Prim  : er graph with V=1000, E=49924, 0.000416550 secs, 99848 edge scans, 48925 w comps, 0 uf ops, 5792 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.731571506
+SCFcach(K=2): er graph with V=1000, E=49924, 0.000425896 secs, 149028 edge scans, 280259 w comps, 0 uf ops, 1998 pq ops, 3795 component updates, 8572/137194 cache checks for best/worst, with MST weight 11.731571506
+Boruvka: er graph with V=1000, E=49924, 0.000909210 secs, 249620 edge scans, 446051 w comps, 501882 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.731571506
+Kruskal: er graph with V=1000, E=49924, 0.002641504 secs, 3127 edge scans, 943656 w comps, 6254 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.731571506
+
+SCFcach(K=2): er graph with V=1000, E=60022, 0.000465770 secs, 173576 edge scans, 328686 w comps, 0 uf ops, 1998 pq ops, 3761 component updates, 8412/161516 cache checks for best/worst, with MST weight 10.043680900
+ Prim  : er graph with V=1000, E=60022, 0.000468214 secs, 120044 edge scans, 59023 w comps, 0 uf ops, 6000 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 10.043680900
+Boruvka: er graph with V=1000, E=60022, 0.000832844 secs, 240088 edge scans, 439303 w comps, 482726 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 10.043680900
+Kruskal: er graph with V=1000, E=60022, 0.003276620 secs, 4039 edge scans, 1128738 w comps, 8078 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 10.043680900
+
+SCFcach(K=2): er graph with V=1000, E=80249, 0.000543076 secs, 238392 edge scans, 454261 w comps, 0 uf ops, 1998 pq ops, 3671 component updates, 8312/224294 cache checks for best/worst, with MST weight 7.266518039
+ Prim  : er graph with V=1000, E=80249, 0.000592494 secs, 160498 edge scans, 79250 w comps, 0 uf ops, 6341 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.266518039
+Boruvka: er graph with V=1000, E=80249, 0.001015802 secs, 320996 edge scans, 603157 w comps, 644618 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.266518039
+Kruskal: er graph with V=1000, E=80249, 0.004907004 secs, 4055 edge scans, 1547835 w comps, 8110 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.266518039
+
+SCFcach(K=2): er graph with V=1000, E=100209, 0.000643612 secs, 302523 edge scans, 576463 w comps, 0 uf ops, 1998 pq ops, 3761 component updates, 8544/285308 cache checks for best/worst, with MST weight 5.788929982
+ Prim  : er graph with V=1000, E=100209, 0.000722582 secs, 200418 edge scans, 99210 w comps, 0 uf ops, 6530 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.788929982
+Boruvka: er graph with V=1000, E=100209, 0.001362396 secs, 400836 edge scans, 748578 w comps, 804340 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.788929982
+Kruskal: er graph with V=1000, E=100209, 0.006137342 secs, 4054 edge scans, 2007999 w comps, 8108 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.788929982
+
+SCFcach(K=2): er graph with V=1000, E=120119, 0.000653882 secs, 340793 edge scans, 658676 w comps, 0 uf ops, 1998 pq ops, 3707 component updates, 8254/326512 cache checks for best/worst, with MST weight 4.924721523
+ Prim  : er graph with V=1000, E=120119, 0.000796442 secs, 240238 edge scans, 119120 w comps, 0 uf ops, 6698 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.924721523
+Boruvka: er graph with V=1000, E=120119, 0.001406054 secs, 480476 edge scans, 924064 w comps, 963556 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.924721523
+Kruskal: er graph with V=1000, E=120119, 0.007643598 secs, 3568 edge scans, 2430826 w comps, 7136 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.924721523
+
+SCFcach(K=2): er graph with V=1000, E=139917, 0.000748160 secs, 404473 edge scans, 766894 w comps, 0 uf ops, 1998 pq ops, 3419 component updates, 7732/380816 cache checks for best/worst, with MST weight 4.162900183
+ Prim  : er graph with V=1000, E=139917, 0.000967370 secs, 279834 edge scans, 138918 w comps, 0 uf ops, 6845 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.162900183
+Boruvka: er graph with V=1000, E=139917, 0.001835644 secs, 559668 edge scans, 1036296 w comps, 1121948 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.162900183
+Kruskal: er graph with V=1000, E=139917, 0.009001058 secs, 4711 edge scans, 2805076 w comps, 9422 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.162900183
+
+SCFcach(K=2): er graph with V=1000, E=159707, 0.000772408 secs, 457959 edge scans, 891031 w comps, 0 uf ops, 1998 pq ops, 3720 component updates, 8306/442632 cache checks for best/worst, with MST weight 3.606722923
+ Prim  : er graph with V=1000, E=159707, 0.001053278 secs, 319414 edge scans, 158708 w comps, 0 uf ops, 6979 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.606722923
+Boruvka: er graph with V=1000, E=159707, 0.002895320 secs, 798535 edge scans, 1395770 w comps, 1599710 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.606722923
+Kruskal: er graph with V=1000, E=159707, 0.010357326 secs, 3659 edge scans, 3266585 w comps, 7318 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.606722923
+
+SCFcach(K=2): er graph with V=1000, E=179499, 0.000893048 secs, 535713 edge scans, 1020205 w comps, 0 uf ops, 1998 pq ops, 3896 component updates, 8778/507112 cache checks for best/worst, with MST weight 3.220426633
+ Prim  : er graph with V=1000, E=179499, 0.001144196 secs, 358998 edge scans, 178500 w comps, 0 uf ops, 7132 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.220426633
+Boruvka: er graph with V=1000, E=179499, 0.002447830 secs, 717996 edge scans, 1270278 w comps, 1438596 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.220426633
+Kruskal: er graph with V=1000, E=179499, 0.011701952 secs, 3275 edge scans, 3750721 w comps, 6550 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.220426633
+
+SCFcach(K=2): er graph with V=1000, E=199503, 0.001015272 secs, 605873 edge scans, 1130562 w comps, 0 uf ops, 1998 pq ops, 3948 component updates, 8936/562256 cache checks for best/worst, with MST weight 3.035690111
+ Prim  : er graph with V=1000, E=199503, 0.001233312 secs, 399006 edge scans, 198504 w comps, 0 uf ops, 7190 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.035690111
+Boruvka: er graph with V=1000, E=199503, 0.003670218 secs, 997515 edge scans, 1715529 w comps, 1997656 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.035690111
+Kruskal: er graph with V=1000, E=199503, 0.013097396 secs, 3697 edge scans, 4184767 w comps, 7394 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.035690111
+
+SCFcach(K=2): er graph with V=1000, E=219645, 0.000876212 secs, 613429 edge scans, 1197239 w comps, 0 uf ops, 1998 pq ops, 3570 component updates, 7936/595898 cache checks for best/worst, with MST weight 2.799898105
+ Prim  : er graph with V=1000, E=219645, 0.001324716 secs, 439290 edge scans, 218646 w comps, 0 uf ops, 7191 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 2.799898105
+Boruvka: er graph with V=1000, E=219645, 0.002663988 secs, 878580 edge scans, 1659441 w comps, 1759722 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 2.799898105
+Kruskal: er graph with V=1000, E=219645, 0.014803984 secs, 4375 edge scans, 4620747 w comps, 8750 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 2.799898105
+
+Boruvka: ba graph with V=1000, E=1997, 0.000048782 secs, 7988 edge scans, 8012 w comps, 18416 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 303.772279014
+Kruskal: ba graph with V=1000, E=1997, 0.000090008 secs, 1963 edge scans, 26181 w comps, 3926 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 303.772279014
+ Prim  : ba graph with V=1000, E=1997, 0.000091922 secs, 3994 edge scans, 998 w comps, 0 uf ops, 2602 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 303.772279014
+SCFcach(K=2): ba graph with V=1000, E=1997, 0.000130952 secs, 6040 edge scans, 6998 w comps, 0 uf ops, 1998 pq ops, 3544 component updates, 6786/1346 cache checks for best/worst, with MST weight 303.772279014
+
+Boruvka: ba graph with V=1000, E=4985, 0.000121206 secs, 19940 edge scans, 29654 w comps, 42368 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 137.719887912
+ Prim  : ba graph with V=1000, E=4985, 0.000136642 secs, 9970 edge scans, 3986 w comps, 0 uf ops, 3432 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 137.719887912
+SCFcach(K=2): ba graph with V=1000, E=4985, 0.000182216 secs, 13824 edge scans, 23192 w comps, 0 uf ops, 1998 pq ops, 3544 component updates, 7788/8968 cache checks for best/worst, with MST weight 137.719887912
+Kruskal: ba graph with V=1000, E=4985, 0.000226670 secs, 3314 edge scans, 73427 w comps, 6628 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 137.719887912
+
+ Prim  : ba graph with V=1000, E=9945, 0.000179468 secs, 19890 edge scans, 8946 w comps, 0 uf ops, 4171 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 72.176488429
+SCFcach(K=2): ba graph with V=1000, E=9945, 0.000241186 secs, 29248 edge scans, 49786 w comps, 0 uf ops, 1998 pq ops, 3557 component updates, 8026/22232 cache checks for best/worst, with MST weight 72.176488429
+Boruvka: ba graph with V=1000, E=9945, 0.000278994 secs, 39780 edge scans, 62521 w comps, 82066 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 72.176488429
+Kruskal: ba graph with V=1000, E=9945, 0.000466316 secs, 5122 edge scans, 158190 w comps, 10244 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 72.176488429
+
+ Prim  : ba graph with V=1000, E=19790, 0.000228450 secs, 39580 edge scans, 18791 w comps, 0 uf ops, 4800 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 36.336028793
+SCFcach(K=2): ba graph with V=1000, E=19790, 0.000262034 secs, 54822 edge scans, 102415 w comps, 0 uf ops, 1998 pq ops, 3518 component updates, 7788/48568 cache checks for best/worst, with MST weight 36.336028793
+Boruvka: ba graph with V=1000, E=19790, 0.000334630 secs, 79160 edge scans, 138694 w comps, 160816 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 36.336028793
+Kruskal: ba graph with V=1000, E=19790, 0.000987354 secs, 5493 edge scans, 342243 w comps, 10986 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 36.336028793
+
+ Prim  : ba graph with V=1000, E=29535, 0.000270630 secs, 59070 edge scans, 28536 w comps, 0 uf ops, 5141 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 24.093229174
+SCFcach(K=2): ba graph with V=1000, E=29535, 0.000289528 secs, 79123 edge scans, 151602 w comps, 0 uf ops, 1998 pq ops, 3618 component updates, 7882/73137 cache checks for best/worst, with MST weight 24.093229174
+Boruvka: ba graph with V=1000, E=29535, 0.000438268 secs, 118140 edge scans, 217085 w comps, 238770 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 24.093229174
+Kruskal: ba graph with V=1000, E=29535, 0.001498714 secs, 5539 edge scans, 535957 w comps, 11078 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 24.093229174
+
+ Prim  : ba graph with V=1000, E=39180, 0.000334144 secs, 78360 edge scans, 38181 w comps, 0 uf ops, 5506 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 18.225017030
+SCFcach(K=2): ba graph with V=1000, E=39180, 0.000381794 secs, 114170 edge scans, 212927 w comps, 0 uf ops, 1998 pq ops, 3825 component updates, 8534/103605 cache checks for best/worst, with MST weight 18.225017030
+Boruvka: ba graph with V=1000, E=39180, 0.000612780 secs, 156720 edge scans, 279321 w comps, 315958 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 18.225017030
+Kruskal: ba graph with V=1000, E=39180, 0.002027908 secs, 6539 edge scans, 717451 w comps, 13078 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 18.225017030
+
+SCFcach(K=2): ba graph with V=1000, E=48725, 0.000362522 secs, 133784 edge scans, 257284 w comps, 0 uf ops, 1998 pq ops, 3660 component updates, 8032/125907 cache checks for best/worst, with MST weight 14.194387298
+ Prim  : ba graph with V=1000, E=48725, 0.000378436 secs, 97450 edge scans, 47726 w comps, 0 uf ops, 5714 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.194387298
+Boruvka: ba graph with V=1000, E=48725, 0.000964334 secs, 243625 edge scans, 401091 w comps, 489820 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.194387298
+Kruskal: ba graph with V=1000, E=48725, 0.002562798 secs, 4892 edge scans, 913113 w comps, 9784 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 14.194387298
+
+SCFcach(K=2): ba graph with V=1000, E=58170, 0.000406126 secs, 164910 edge scans, 312334 w comps, 0 uf ops, 1998 pq ops, 3632 component updates, 8068/153444 cache checks for best/worst, with MST weight 11.492371797
+ Prim  : ba graph with V=1000, E=58170, 0.000444276 secs, 116340 edge scans, 57171 w comps, 0 uf ops, 5866 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.492371797
+Boruvka: ba graph with V=1000, E=58170, 0.000830880 secs, 232680 edge scans, 427887 w comps, 467890 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.492371797
+Kruskal: ba graph with V=1000, E=58170, 0.003183970 secs, 4999 edge scans, 1101152 w comps, 9998 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 11.492371797
+
+SCFcach(K=2): ba graph with V=1000, E=76760, 0.000504164 secs, 223960 edge scans, 426956 w comps, 0 uf ops, 1998 pq ops, 3730 component updates, 8332/210658 cache checks for best/worst, with MST weight 8.918819811
+ Prim  : ba graph with V=1000, E=76760, 0.000536720 secs, 153520 edge scans, 75761 w comps, 0 uf ops, 6231 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 8.918819811
+Boruvka: ba graph with V=1000, E=76760, 0.001006218 secs, 307040 edge scans, 580548 w comps, 616636 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 8.918819811
+Kruskal: ba graph with V=1000, E=76760, 0.004566134 secs, 7757 edge scans, 1477474 w comps, 15514 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 8.918819811
+
+SCFcach(K=2): ba graph with V=1000, E=94950, 0.000533296 secs, 267017 edge scans, 513431 w comps, 0 uf ops, 1998 pq ops, 3626 component updates, 8038/254008 cache checks for best/worst, with MST weight 7.201035956
+ Prim  : ba graph with V=1000, E=94950, 0.000687886 secs, 189900 edge scans, 93951 w comps, 0 uf ops, 6404 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.201035956
+Boruvka: ba graph with V=1000, E=94950, 0.001235096 secs, 379800 edge scans, 603099 w comps, 762102 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.201035956
+Kruskal: ba graph with V=1000, E=94950, 0.005713902 secs, 4981 edge scans, 1886187 w comps, 9962 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 7.201035956
+
+SCFcach(K=2): ba graph with V=1000, E=112740, 0.000570070 secs, 313646 edge scans, 605803 w comps, 0 uf ops, 1998 pq ops, 3610 component updates, 7960/300199 cache checks for best/worst, with MST weight 6.254375984
+ Prim  : ba graph with V=1000, E=112740, 0.000718842 secs, 225480 edge scans, 111741 w comps, 0 uf ops, 6424 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 6.254375984
+Boruvka: ba graph with V=1000, E=112740, 0.001577248 secs, 450960 edge scans, 768759 w comps, 904438 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 6.254375984
+Kruskal: ba graph with V=1000, E=112740, 0.007003816 secs, 5603 edge scans, 2314118 w comps, 11206 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 6.254375984
+
+SCFcach(K=2): ba graph with V=1000, E=130130, 0.000604642 secs, 356628 edge scans, 696251 w comps, 0 uf ops, 1998 pq ops, 3499 component updates, 7686/345504 cache checks for best/worst, with MST weight 5.226707149
+ Prim  : ba graph with V=1000, E=130130, 0.000836276 secs, 260260 edge scans, 129131 w comps, 0 uf ops, 6658 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.226707149
+Boruvka: ba graph with V=1000, E=130130, 0.001951556 secs, 520520 edge scans, 914984 w comps, 1043612 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.226707149
+Kruskal: ba graph with V=1000, E=130130, 0.008219396 secs, 6021 edge scans, 2708136 w comps, 12042 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 5.226707149
+
+SCFcach(K=2): ba graph with V=1000, E=147120, 0.000703084 secs, 416543 edge scans, 806340 w comps, 0 uf ops, 1998 pq ops, 3729 component updates, 8256/400339 cache checks for best/worst, with MST weight 4.461065990
+ Prim  : ba graph with V=1000, E=147120, 0.000947794 secs, 294240 edge scans, 146121 w comps, 0 uf ops, 6750 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.461065990
+Boruvka: ba graph with V=1000, E=147120, 0.002528474 secs, 735600 edge scans, 1213664 w comps, 1473808 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.461065990
+Kruskal: ba graph with V=1000, E=147120, 0.009821856 secs, 7927 edge scans, 3077443 w comps, 15854 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 4.461065990
+
+SCFcach(K=2): ba graph with V=1000, E=163710, 0.000961184 secs, 475052 edge scans, 906288 w comps, 0 uf ops, 1998 pq ops, 3700 component updates, 8272/450331 cache checks for best/worst, with MST weight 3.960113336
+ Prim  : ba graph with V=1000, E=163710, 0.001009262 secs, 327420 edge scans, 162711 w comps, 0 uf ops, 6997 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.960113336
+Boruvka: ba graph with V=1000, E=163710, 0.003349436 secs, 818550 edge scans, 1377588 w comps, 1639688 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.960113336
+Kruskal: ba graph with V=1000, E=163710, 0.011143068 secs, 5099 edge scans, 3492671 w comps, 10198 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.960113336
+
+SCFcach(K=2): ba graph with V=1000, E=179900, 0.000841080 secs, 507054 edge scans, 980670 w comps, 0 uf ops, 1998 pq ops, 3751 component updates, 8308/487498 cache checks for best/worst, with MST weight 3.737615421
+ Prim  : ba graph with V=1000, E=179900, 0.001136792 secs, 359800 edge scans, 178901 w comps, 0 uf ops, 7030 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.737615421
+Boruvka: ba graph with V=1000, E=179900, 0.002383886 secs, 719600 edge scans, 1343342 w comps, 1441760 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.737615421
+Kruskal: ba graph with V=1000, E=179900, 0.012182316 secs, 5667 edge scans, 3794250 w comps, 11334 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.737615421
+
+SCFcach(K=2): ba graph with V=1000, E=195690, 0.001126840 secs, 570074 edge scans, 1096723 w comps, 0 uf ops, 1998 pq ops, 3650 component updates, 8182/545589 cache checks for best/worst, with MST weight 3.149758549
+ Prim  : ba graph with V=1000, E=195690, 0.001252166 secs, 391380 edge scans, 194691 w comps, 0 uf ops, 7085 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.149758549
+Boruvka: ba graph with V=1000, E=195690, 0.002466940 secs, 782760 edge scans, 1475944 w comps, 1568128 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.149758549
+Kruskal: ba graph with V=1000, E=195690, 0.012857330 secs, 7158 edge scans, 4202093 w comps, 14316 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, with MST weight 3.149758549
+
+average:
+SCFcach(K=2): 0.000536087 secs, 1.484 rank, 253206 edge scans, 484488 w comps, 0 uf ops, 1998 pq ops, 3681 component updates, 8181/239467 cache checks for best/worst, 
+ Prim  : 0.000620711 secs, 1.774 rank, 175950 edge scans, 86976 w comps, 0 uf ops, 5838 pq ops, 0 component updates, 0/0 cache checks for best/worst, 
+Boruvka: 0.001332586 secs, 2.839 rank, 379122 edge scans, 673460 w comps, 760816 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, 
+Kruskal: 0.005533838 secs, 3.903 rank, 4646 edge scans, 1785649 w comps, 9293 uf ops, 0 pq ops, 0 component updates, 0/0 cache checks for best/worst, 
